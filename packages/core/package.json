@@ -1,0 +1,21 @@
+{
+  "name": "core",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/index.ts",
+  "scripts": {
+    "test": "jest --watchAll --collectCoverage"
+  },
+  "keywords": [],
+  "author": "Leonardo Moura Leitão",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^29.5.2",
+    "eslint": "^7.32.0",
+    "eslint-config-custom": "*",
+    "jest": "^29.5.0",
+    "ts-jest": "^29.1.0",
+    "tsconfig": "*",
+    "typescript": "^4.5.2"
+  }
+}
